@@ -1,0 +1,359 @@
+date,text_excerpt,raw_output,pred_tone
+2023-12-13,"Recent indicators suggest that growth of economic activity has slowed from its strong pace in the third quarter. Job gains have moderated since earlier in the year but remain strong, and the unemployment rate has remained low. Inflation has eased over the past year but remains elevated.
+
+The U.S. banking system is sound and resilient. Tighter financial and credit conditions for households and businesses are likely to weigh on economic activity, hiring, and inflation. The extent of these effects remains uncertain. The Committee remains highly attentive to inflation risks.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. In support of these goals, the Committee decided to maintain the target range for the federal funds rate at 5-1/4 to 5-1/2 percent. The Committee will continue to assess additional information and its implications for monetary policy. In determining the extent of any additional policy firming that may be appro","Tone: Hawkish
+Reasoning: While the Committee maintained the federal funds rate, it highlighted elevated inflation and strong job gains, remained attentive to inflation risks, and explicitly kept open the option for ""additional policy firming.""",Hawkish
+2023-12-13,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    December 12â13, 2023
+
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, December 12, 2023, at 10:30 a.m. and continued on Wednesday, December 13, 2023, at 9:00 a.m.1
+
+Attendance
+Jerome H. Powell, Chair
+John C. Williams, Vice Chair
+Michael S. Barr
+Michelle W. Bowman
+Lisa D. Cook
+Austan D. Goolsbee
+Patrick Harker
+Philip N. Jefferson
+Neel Kashkari
+Adriana D. Kugler
+Lorie K. Logan
+Christopher J. Waller
+
+Thomas I. Barkin, Raphael W. Bostic, Mary C. Daly, and Loretta J. Mester, Alternate Members of the Committee
+
+Susan M. Collins and Jeffrey R. Schmid, Presidents of the Federal Reserve Banks of Boston and Kansas City, respectively
+
+Kathleen O'Neill Paese, Interim President of the Federal Reserve ","Tone: Neutral
+Reasoning: The provided text only contains the administrative details of the FOMC meeting, including the date and attendees, without any discussion or indication of monetary policy stance.",Neutral
+2024-01-31,"Recent indicators suggest that economic activity has been expanding at a solid pace. Job gains have moderated since early last year but remain strong, and the unemployment rate has remained low. Inflation has eased over the past year but remains elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals are moving into better balance. The economic outlook is uncertain, and the Committee remains highly attentive to inflation risks.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 5-1/4 to 5-1/2 percent. In considering any adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee does not expect it will be appropriate to reduce the target range until it has gained greater co","Tone: Hawkish
+Reasoning: The Committee is maintaining a restrictive federal funds rate, expresses continued concern about elevated inflation and inflation risks, and explicitly states that rate reductions are not expected soon.",Hawkish
+2024-01-31,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    January 30â31, 2024
+
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, January 30, 2024, at 10:00 a.m. and continued on Wednesday, January 31, 2024, at 9:00 a.m.1
+
+Attendance
+Jerome H. Powell, Chair
+John C. Williams, Vice Chair
+Thomas I. Barkin
+Michael S. Barr
+Raphael W. Bostic
+Michelle W. Bowman
+Lisa D. Cook
+Mary C. Daly
+Philip N. Jefferson
+Adriana D. Kugler
+Loretta J. Mester
+Christopher J. Waller
+
+Susan M. Collins, Austan D. Goolsbee, Kathleen O'Neill, Jeffrey R. Schmid, and Sushmita Shukla, Alternate Members of the Committee
+
+Patrick Harker, Neel Kashkari, and Lorie K. Logan, Presidents of the Federal Reserve Banks of Philadelphia, Minneapolis, and Dallas, respectively
+
+Joshua Gallin, Se","Tone: Neutral
+Reasoning: The provided text only includes the meeting header, date, and attendance list, offering no substantive information regarding monetary policy discussions or decisions.",Neutral
+2024-03-20,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    March 19â20, 2024
+
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, March 19, 2024, at 9:00 a.m. and continued on Wednesday, March 20, 2024, at 9:00 a.m.1
+
+Attendance
+Jerome H. Powell, Chair
+John C. Williams, Vice Chair
+Thomas I. Barkin
+Michael S. Barr
+Raphael W. Bostic
+Michelle W. Bowman
+Lisa D. Cook
+Mary C. Daly
+Philip N. Jefferson
+Adriana D. Kugler
+Loretta J. Mester
+Christopher J. Waller
+
+Susan M. Collins, Austan D. Goolsbee, Kathleen O'Neill, and Jeffrey R. Schmid, Alternate Members of the Committee
+
+Patrick Harker, Neel Kashkari, and Lorie K. Logan, Presidents of the Federal Reserve Banks of Philadelphia, Minneapolis, and Dallas, respectively
+
+Joshua Gallin, Secretary
+Matthew M. Lueck","Tone: Neutral
+Reasoning: The provided text is solely the header and attendance list of the FOMC minutes, containing no substantive discussion or policy statements to indicate a stance.",Neutral
+2024-03-20,"Recent indicators suggest that economic activity has been expanding at a solid pace. Job gains have remained strong, and the unemployment rate has remained low. Inflation has eased over the past year but remains elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals are moving into better balance. The economic outlook is uncertain, and the Committee remains highly attentive to inflation risks.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 5-1/4 to 5-1/2 percent. In considering any adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving ","Tone: Hawkish
+Reasoning: The committee maintained a restrictive policy stance and signaled that rate cuts are not expected until inflation is clearly moving towards its target, while remaining attentive to inflation risks despite the pause.",Hawkish
+2024-05-01,"Recent indicators suggest that economic activity has continued to expand at a solid pace. Job gains have remained strong, and the unemployment rate has remained low. Inflation has eased over the past year but remains elevated. In recent months, there has been a lack of further progress toward the Committee's 2 percent inflation objective.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals have moved toward better balance over the past year. The economic outlook is uncertain, and the Committee remains highly attentive to inflation risks.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 5-1/4 to 5-1/2 percent. In considering any adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The ","Tone: Hawkish
+Reasoning: The text emphasizes a lack of further progress toward the inflation objective and the Committee's continued attentiveness to inflation risks, despite strong employment and economic activity, indicating a bias towards maintaining or potentially tightening policy.",Hawkish
+2024-05-01,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    April 30-May 1, 2024
+
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, April 30, 2024, at 10:00 a.m. and continued on Wednesday, May 1, 2024, at 9:00 a.m.1
+
+Attendance
+Jerome H. Powell, Chair
+John C. Williams, Vice Chair
+Thomas I. Barkin
+Michael S. Barr
+Raphael W. Bostic
+Michelle W. Bowman
+Lisa D. Cook
+Mary C. Daly
+Philip N. Jefferson
+Adriana D. Kugler
+Loretta J. Mester
+Christopher J. Waller
+
+Susan M. Collins, Austan D. Goolsbee, Alberto G. Musalem, Jeffrey R. Schmid, and Sushmita Shukla, Alternate Members of the Committee
+
+Patrick Harker, Neel Kashkari, and Lorie K. Logan, Presidents of the Federal Reserve Banks of Philadelphia, Minneapolis, and Dallas, respectively
+
+Joshua Gallin, Secretar","Tone: Neutral
+Reasoning: The provided text only contains the header and attendance list of the FOMC meeting minutes and does not discuss any monetary policy decisions or sentiments.",Neutral
+2024-06-12,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    June 11â12, 2024
+
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, June 11, 2024, at 10:30 a.m. and continued on Wednesday, June 12, 2024, at 9:15 a.m.1
+
+Attendance
+Jerome H. Powell, Chair
+John C. Williams, Vice Chair
+Thomas I. Barkin
+Michael S. Barr
+Raphael W. Bostic
+Michelle W. Bowman
+Lisa D. Cook
+Mary C. Daly
+Philip N. Jefferson
+Adriana D. Kugler
+Loretta J. Mester
+Christopher J. Waller
+
+Susan M. Collins, Austan D. Goolsbee, Alberto G. Musalem, and Jeffrey R. Schmid, Alternate Members of the Committee
+
+Patrick Harker, Neel Kashkari, and Lorie K. Logan, Presidents of the Federal Reserve Banks of Philadelphia, Minneapolis, and Dallas, respectively
+
+Joshua Gallin, Secretary
+Matthew M. Lueck","Tone: Neutral
+Reasoning: The provided text is only the introductory section of the FOMC minutes, listing the title, date, and attendees, and does not contain any discussion or decisions regarding monetary policy to determine a stance.",Neutral
+2024-06-12,"Recent indicators suggest that economic activity has continued to expand at a solid pace. Job gains have remained strong, and the unemployment rate has remained low. Inflation has eased over the past year but remains elevated. In recent months, there has been modest further progress toward the Committee's 2 percent inflation objective.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals have moved toward better balance over the past year. The economic outlook is uncertain, and the Committee remains highly attentive to inflation risks.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 5-1/4 to 5-1/2 percent. In considering any adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Com","Tone: Hawkish
+Reasoning: The statement maintains the current restrictive policy, emphasizing that inflation remains elevated, progress is only modest, and the Committee remains highly attentive to inflation risks, despite strong employment and economic activity.",Hawkish
+2024-07-31,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    July 30â31, 2024
+
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, July 30, 2024, at 10:00 a.m. and continued on Wednesday, July 31, 2024, at 9:00 a.m.1
+
+Developments in Financial Markets and Open Market Operations
+The manager turned first to a review of developments in financial markets. Financial conditions eased modestly over the intermeeting period, reflecting lower long-term interest rates and higher equity prices. The manager noted that current financial conditions appeared to be providing neither a headwind nor tailwind to growth.
+
+Nominal Treasury yields declined over the period, with shorter-term yields having decreased by more than longer-term yields, leading to a steepening of t","Tone: Neutral
+Reasoning: The text reports that financial conditions eased through lower rates and higher equity prices, but explicitly states these conditions are providing neither a headwind nor tailwind to growth, indicating a neutral assessment of their economic impact.",Neutral
+2024-07-31,"Recent indicators suggest that economic activity has continued to expand at a solid pace. Job gains have moderated, and the unemployment rate has moved up but remains low. Inflation has eased over the past year but remains somewhat elevated. In recent months, there has been some further progress toward the Committee's 2 percent inflation objective.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals continue to move into better balance. The economic outlook is uncertain, and the Committee is attentive to the risks to both sides of its dual mandate.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 5-1/4 to 5-1/2 percent. In considering any adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of ","Tone: Neutral
+Reasoning: The Committee decided to maintain the current interest rate target, indicating a pause to assess incoming data while acknowledging both progress on inflation and continued elevated levels, alongside a moderating labor market and balanced risks.",Neutral
+2024-09-18,"Recent indicators suggest that economic activity has continued to expand at a solid pace. Job gains have slowed, and the unemployment rate has moved up but remains low. Inflation has made further progress toward the Committee's 2 percent objective but remains somewhat elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee has gained greater confidence that inflation is moving sustainably toward 2 percent, and judges that the risks to achieving its employment and inflation goals are roughly in balance. The economic outlook is uncertain, and the Committee is attentive to the risks to both sides of its dual mandate.
+
+In light of the progress on inflation and the balance of risks, the Committee decided to lower the target range for the federal funds rate by 1/2 percentage point to 4-3/4 to 5 percent. In considering additional adjustments to the target range for the federal funds rate, the Committee will careful","Tone: Dovish
+Reasoning: The Committee explicitly decided to lower the target range for the federal funds rate by 1/2 percentage point, indicating a loosening of monetary policy.",Dovish
+2024-09-18,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    September 17â18, 2024
+
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, September 17, 2024, at 10:30 a.m. and continued on Wednesday, September 18, 2024, at 9:00 a.m.1
+
+Developments in Financial Markets and Open Market Operations
+The manager turned first to a review of developments in financial markets. Nominal Treasury yields declined notably over the period, driven by weaker-than-expected data releasesâespecially the July employment report in early Augustâand policy communications that were seen as affirming expectations that a reduction in policy restraint would begin at this meeting. The decline in nominal yields over the period was primarily attributable to lower expected real yie","Tone: Dovish
+Reasoning: The text explicitly mentions ""policy communications that were seen as affirming expectations that a reduction in policy restraint would begin at this meeting.""",Dovish
+2024-11-07,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    November 6â7, 2024
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Wednesday, November 6, 2024, at 10:00 a.m. and continued on Thursday, November 7, 2024, at 9:00 a.m.1
+
+Developments in Financial Markets and Open Market Operations
+The manager turned first to a review of developments in financial markets. Nominal Treasury yields rose notably over the period; factors driving the increases in yields included stronger-than-expected data releases and monetary policy communications that were interpreted as signaling a more gradual pace of policy easing than previously thought. The rise at short maturities reflected increases in both real yields and inflation compensation, while the rise at longer maturi","Tone: Hawkish
+Reasoning: Monetary policy communications were interpreted as signaling a more gradual pace of policy easing than previously thought, which implies a relatively tighter stance.",Hawkish
+2024-11-07,"Recent indicators suggest that economic activity has continued to expand at a solid pace. Since earlier in the year, labor market conditions have generally eased, and the unemployment rate has moved up but remains low. Inflation has made progress toward the Committee's 2 percent objective but remains somewhat elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals are roughly in balance. The economic outlook is uncertain, and the Committee is attentive to the risks to both sides of its dual mandate.
+
+In support of its goals, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 4-1/2 to 4-3/4 percent. In considering additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Commi","Tone: Dovish
+Reasoning: The Committee explicitly decided to lower the target range for the federal funds rate by 1/4 percentage point, which is a move towards looser monetary policy.",Dovish
+2024-12-18,"Recent indicators suggest that economic activity has continued to expand at a solid pace. Since earlier in the year, labor market conditions have generally eased, and the unemployment rate has moved up but remains low. Inflation has made progress toward the Committee's 2 percent objective but remains somewhat elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals are roughly in balance. The economic outlook is uncertain, and the Committee is attentive to the risks to both sides of its dual mandate.
+
+In support of its goals, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 4-1/4 to 4-1/2 percent. In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the ba","Tone: Dovish
+Reasoning: The Committee explicitly decided to lower the target range for the federal funds rate by 1/4 percentage point, which is a loosening of monetary policy.",Dovish
+2024-12-18,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    December 17â18, 2024
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, December 17, 2024, at 10:30 a.m. and continued on Wednesday, December 18, 2024, at 9:00 a.m.1
+
+Developments in Financial Markets and Open Market Operations
+The manager turned first to a review of developments in financial markets. Nominal Treasury yields fluctuated over the intermeeting period and were slightly higher, on net, than in early November. Treasury yields had risen notably since their trough in mid-September, with the rise in the 10-year nominal yield driven largely by increases in real yields. Liquidity in Treasury markets deteriorated somewhat following the U.S. election but remained well within the ranges o","Tone: Neutral
+Reasoning: The text provides a factual description of financial market developments, specifically rising Treasury yields, without indicating the Federal Reserve's policy preferences or future actions.",Neutral
+2025-01-29,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    January 28â29, 2025 
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on January 28, 2025, at 8:30 a.m. and continued on Wednesday, January 29, 2025, at 9:00 a.m.1
+
+Annual Organizational Matters2
+The agenda for this meeting reported that advices of the election of the following members and alternate members of the Federal Open Market Committee for a term beginning January 28, 2025, were received and that these individuals executed their oaths of office.
+
+The elected members and alternate members were as follows:
+
+John C. Williams, President of the Federal Reserve Bank of New York, with Sushmita Shukla, First Vice President of the Federal Reserve Bank of New York, as alternate;
+
+Susan M. Collins, Presi","Tone: Neutral
+Reasoning: The text describes the organizational matters of an FOMC meeting, including attendance and election of members, without discussing economic conditions or monetary policy decisions.",Neutral
+2025-01-29,"Recent indicators suggest that economic activity has continued to expand at a solid pace. The unemployment rate has stabilized at a low level in recent months, and labor market conditions remain solid. Inflation remains somewhat elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. The Committee judges that the risks to achieving its employment and inflation goals are roughly in balance. The economic outlook is uncertain, and the Committee is attentive to the risks to both sides of its dual mandate.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent. In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee will continue reducing its holdings of Treasury securities and agency deb","Tone: Neutral
+Reasoning: The Committee maintained the federal funds rate and indicated future adjustments would be data-dependent, balancing elevated inflation with solid economic activity and an uncertain outlook where risks are roughly in balance.",Neutral
+2025-03-19,"Minutes of the Federal Open Market Committee
+ 
+                                                
+                    
+                    
+                    
+                    March 18â19, 2025 
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, March 18, 2025, at 9:00 a.m. and continued on Wednesday, March 19, 2025, at 9:00 a.m.1
+
+Review of Monetary Policy Strategy, Tools, and Communications
+Committee participants continued their discussions related to their review of the Federal Reserve's monetary policy framework, with a focus on labor market dynamics and the FOMC's maximum employment goal. The staff briefed policymakers on the concept of maximum employment and related labor market indicators. They discussed conceptual benchmarks used in evaluating the position of the labor market relative to maximum employment and in ascertaining the interaction of maximum e","Tone: Neutral
+Reasoning: The text describes an ongoing review of the monetary policy framework and discussions focused on the maximum employment goal and labor market dynamics, without signaling any immediate policy action or bias towards tightening or loosening.",Neutral
+2025-03-19,"Recent indicators suggest that economic activity has continued to expand at a solid pace. The unemployment rate has stabilized at a low level in recent months, and labor market conditions remain solid. Inflation remains somewhat elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. Uncertainty around the economic outlook has increased. The Committee is attentive to the risks to both sides of its dual mandate.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent. In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgageâbacked securities. Beginning in April, the Committee will slow the p","Tone: Neutral
+Reasoning: The Committee maintained the target range for the federal funds rate and indicated that future adjustments would be data-dependent, balancing concerns about elevated inflation with increased economic uncertainty.",Neutral
+2025-05-07,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    May 6â7, 2025 
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, May 6, 2025, at 8:30 a.m. and continued on Wednesday, May 7, 2025, at 9:00 a.m.1
+
+Review of Monetary Policy Strategy, Tools, and Communications
+Committee participants continued their discussions related to their review of the Federal Reserve's monetary policy framework, with a focus on the price-stability side of the dual mandate and the FOMC's monetary policy strategy. The staff briefed policymakers on lessons drawn from the experiences of the U.S. and other economies with inflation over the past five years and the possible implications for monetary policy. The staff discussed the role of large and persistent demand and suppl","Tone: Hawkish
+Reasoning: The text indicates a focus on the price-stability side of the dual mandate and discussions about lessons drawn from inflation experiences, suggesting a concern for controlling inflation.",Hawkish
+2025-05-07,"Although swings in net exports have affected the data, recent indicators suggest that economic activity has continued to expand at a solid pace. The unemployment rate has stabilized at a low level in recent months, and labor market conditions remain solid. Inflation remains somewhat elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. Uncertainty about the economic outlook has increased further. The Committee is attentive to the risks to both sides of its dual mandate and judges that the risks of higher unemployment and higher inflation have risen.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent. In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee will continue reducing","Tone: Neutral
+Reasoning: The Committee maintained the federal funds rate, indicating a pause in tightening, while acknowledging elevated inflation but also increased risks to employment and adopting a data-dependent approach for future adjustments.",Neutral
+2025-06-18,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    June 17â18, 2025
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, June 17, 2025, at 9:00 a.m. and continued on Wednesday, June 18, 2025, at 9:00 a.m.1
+
+Review of Monetary Policy Strategy, Tools, and Communications
+Committee participants continued their discussions related to their review of the Federal Reserve's monetary policy framework, with a focus on issues related to assessing the risks and uncertainty that are relevant for monetary policy and the potential implications of these issues for the FOMC's policy strategy and communications. The staff reviewed qualitative and quantitative tools that are commonly used to measure uncertainty about the economic outlook and the balance of risks","Tone: Neutral
+Reasoning: The text describes an ongoing review of monetary policy strategy and tools, focusing on assessing risks and uncertainty, without indicating a specific bias towards tighter or looser policy.",Neutral
+2025-06-18,"Although swings in net exports have affected the data, recent indicators suggest that economic activity has continued to expand at a solid pace. The unemployment rate remains low, and labor market conditions remain solid. Inflation remains somewhat elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. Uncertainty about the economic outlook has diminished but remains elevated. The Committee is attentive to the risks to both sides of its dual mandate.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent. In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgageâbacked securities. The Comm","Tone: Hawkish
+Reasoning: The text indicates inflation remains elevated and economic activity is solid, while the Committee maintains a high federal funds rate and continues quantitative tightening, signaling a sustained restrictive policy stance.",Hawkish
+2025-07-30,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    July 29â30, 2025
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, July 29, 2025, at 9:00 a.m. and continued on Wednesday, July 30, 2025, at 9:00 a.m.1
+
+Review of Monetary Policy Strategy, Tools, and Communications
+Participants continued their discussion related to the ongoing review of the Federal Reserve's monetary policy strategy, tools, and communication practices (framework review). They observed that they had made important progress toward revising the Committee's Statement on Longer-Run Goals and Monetary Policy Strategy (consensus statement). Participants discussed potential revisions to the consensus statement that would incorporate lessons learned from economic developments since ","Tone: Neutral
+Reasoning: The text describes a procedural review of monetary policy strategy and communication practices, without indicating any specific policy stance towards tightening or loosening.",Neutral
+2025-07-30,"Although swings in net exports continue to affect the data, recent indicators suggest that growth of economic activity moderated in the first half of the year. The unemployment rate remains low, and labor market conditions remain solid. Inflation remains somewhat elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. Uncertainty about the economic outlook remains elevated. The Committee is attentive to the risks to both sides of its dual mandate.
+
+In support of its goals, the Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent. In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgageâbacked securities. The Committe","Tone: Hawkish
+Reasoning: The text indicates inflation remains elevated and the committee is open to ""additional adjustments"" (implying hikes) to the federal funds rate while continuing quantitative tightening.",Hawkish
+2025-09-17,"Recent indicators suggest that growth of economic activity moderated in the first half of the year. Job gains have slowed, and the unemployment rate has edged up but remains low. Inflation has moved up and remains somewhat elevated.
+
+The Committee seeks to achieve maximum employment and inflation at the rate of 2 percent over the longer run. Uncertainty about the economic outlook remains elevated. The Committee is attentive to the risks to both sides of its dual mandate and judges that downside risks to employment have risen.
+
+In support of its goals and in light of the shift in the balance of risks, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 4 to 4â1/4 percent. In considering additional adjustments to the target range for the federal funds rate, the Committee will carefully assess incoming data, the evolving outlook, and the balance of risks. The Committee will continue reducing its holdings of Treasury securities and agency","Tone: Dovish
+Reasoning: The Committee explicitly lowered the target range for the federal funds rate, citing moderating economic activity, slowing job gains, and increased downside risks to employment.",Dovish
+2025-09-17,"Minutes of the Federal Open Market Committee
+                                                
+                    
+                    
+                    
+                    September 16â17, 2025
+A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve System was held in the offices of the Board of Governors on Tuesday, September 16, 2025, at 10:30 a.m. and continued on Wednesday, September 17, 2025, at 9:00 a.m.1
+
+Developments in Financial Markets and Open Market Operations
+The deputy manager turned first to an overview of financial market developments during the intermeeting period. Markets appeared to interpret data releases and FOMC communications as indicating that the baseline outlook was little changed but that downside risks to the labor market had increased. Median modal expectations for personal consumption expenditures (PCE) inflation this year and next from the Open Market Desk's Survey of Market Expectations (Desk survey) ","Tone: Neutral
+Reasoning: The text provides a descriptive overview of financial market developments and market interpretations, including increased downside risks to the labor market, but does not express the Federal Open Market Committee's own policy stance or future direction.",Neutral

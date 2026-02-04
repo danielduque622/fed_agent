@@ -19,9 +19,7 @@ st.markdown(
 with st.sidebar:
     st.header("⚙️ Configuration")
     model = st.selectbox("Gemini Model", ["gemini-2.5-flash", "gemini-2.5-flash-lite"], index=0)
-    gemini_api_key = st.text_input("🔑 Gemini API Key", type="password")
-    if gemini_api_key:
-        os.environ["GOOGLE_API_KEY"] = gemini_api_key
+    os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
     show_steps = st.checkbox("Show Agent Steps", value=False)
     if st.button("Clear Chat History"):
         st.session_state.messages = []
@@ -55,14 +53,36 @@ if prompt := st.chat_input("Ask me anything about the Fed or markets..."):
                 langchain_messages.append(AIMessage(content=msg["content"]))
 
         state = {"messages": langchain_messages}
-        with st.spinner("Thinking..."):
-            final_state = agent_graph.invoke(state)
-            response = final_state["messages"][-1].content
-
+# Stream the graph execution to capture steps
+        response = ""
         with st.chat_message("assistant"):
+            if show_steps:
+                with st.status("Agent Processing...", expanded=True) as status:
+                    # Map technical node names to friendly labels
+                    node_labels = {
+                        "memory": "🧠 Updating conversation memory and facts...",
+                        "reasoning": "🤔 Determining route and analyzing data..."
+                    }
+                    
+                    for event in agent_graph.stream(state, stream_mode="updates"):
+                        for node_name, output in event.items():
+                            label = node_labels.get(node_name, f"Executing {node_name}...")
+                            st.write(label)
+                            
+                            if "messages" in output:
+                                response = output["messages"][-1].content
+                    
+                    status.update(label="✅ Processing Complete", state="complete", expanded=False)
+            else:
+                # Standard execution without visible steps
+                for event in agent_graph.stream(state, stream_mode="updates"):
+                    for node_name, output in event.items():
+                        if "messages" in output:
+                            response = output["messages"][-1].content
+
+            # Final display of the assistant's response
             st.write(response)
 
         st.session_state.messages.append({"role": "assistant", "content": response})
-
     except Exception as e:
         st.error(f"Error: {str(e)}")

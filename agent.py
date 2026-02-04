@@ -156,6 +156,8 @@ def create_fed_agent(llm) -> Any:
                 "(including ML-based S&P 500 forecasts)."
             )
 
+        print(f"DEBUG: Agent decided on {decision} because {reason}")
+
         return {"messages": [AIMessage(content=output)]}
 
 

@@ -1,4 +1,6 @@
 # FedSentiment: AI-Powered FOMC Analysis & Market Forecasting
+https://fedagent-jbv9m5x8gktpkrumd97ugx.streamlit.app/
+
 FedSentiment is an AI-driven application designed to decode complex Federal Reserve FOMC communications. It translates technical monetary policy statements into clear natural language insights, classifies policy sentiment, and forecasts potential market outcomes for the S&P 500
 ## Project Overview
 The Federal Reserve’s FOMC statements significantly impact interest rates, employment, and inflation. However, these documents are often too technical for the general public or small businesses to interpret effectively.
